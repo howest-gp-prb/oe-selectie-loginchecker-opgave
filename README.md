@@ -1,4 +1,4 @@
-# oe-selectie-loginchecker-opl
+# oe-selectie-loginchecker-opgave
 **Dit is een console-applicatie die checkt of je de basisinhoud over het hoofdstuk 'Selectie' begrijpt. Gezien het een console-applicatie betreft, komt er dus géén WPF aan te pas!**
 
 ## Startsituatie:
