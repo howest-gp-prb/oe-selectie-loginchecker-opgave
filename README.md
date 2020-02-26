@@ -14,7 +14,7 @@ Bovendien werd reeds de methode ` static void MakeNewQuestionLine()` gemaakt. De
 aan welke oefening je bezig bent. Bekijk ze eens: je merkt dat de methode `questionNumber` gebruikt; een variabele buiten de scope van de methode.
 Zo kunnen we bijhouden wat het nummer van de volgende vraag moet zijn.
 
-*:warning:Belangrijk: gezien we werken met een console-applicatie is het `static` keyword nodig. Doe dit nooit in een WPF-applicatie!*
+*:warning:Belangrijk: gezien we werken met een console-applicatie is het `static` keyword nodig. Doe dit niet zomaar in een WPF-applicatie!*
 
 ## Opdrachten
 Gebruik telkens `Console.WriteLine()` om je boodschap te noteren.
