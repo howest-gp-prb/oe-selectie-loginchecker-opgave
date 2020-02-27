@@ -4,7 +4,7 @@ namespace Selectie.Cons
 {
     class Program
     {
-        //static omdat we in een consoleapplicatie zitten ...
+        //Static omdat we in een consoleapplicatie zitten ...
         static int questionNumber = 0;
         static string userName = "Admin";
         static string password = "ilovec#";
